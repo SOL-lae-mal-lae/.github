@@ -1,21 +1,17 @@
 # 기록해SOL
-🕹 간편한 기록의 시작, 원클릭 매매일지
 
-**기획 의도**:
-- 
-- 
-- 
+🕹 간편한 기록의 시작, 원클릭 매매일지
 
 ### Team Member
 
-| 이광해 | 김혜윤 | 박순영 | 한정우 | 
-| :---: | :---: | :---: | :---: |
-| PM, Full-Stack, Infra | Full-Stack | Full-Stack | Full-Stack |
-| <img src="" alt="이광해 프로필" width="180" height="180"> | <img src="" alt="김혜윤 프로필" width="180" height="180"> | <img src="" alt="박순영 프로필" width="180" height="180"> | <img src="" alt="한정우 프로필" width="180" height="180"> |
-| []() | [](https://github.com/) | [ruluralaa](https://github.com/ruluralaa) | [](https://github.com/) |
-
+|                                                    이광해                                                     |                                                    김혜윤                                                     |                                                     박순영                                                     |                                                    한정우                                                     |
+| :-----------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------: |
+|                                             PM, Full-Stack, Infra                                             |                                                  Full-Stack                                                   |                                                   Full-Stack                                                   |                                                  Full-Stack                                                   |
+| <img src="https://avatars.githubusercontent.com/u/62276222?v=4" alt="이광해 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/38944609?v=4" alt="김혜윤 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/109213122?v=4" alt="박순영 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/78309388?v=4" alt="한정우 프로필" width="180" height="180"> |
+|                                     [Panghae](https://github.com/Panghae)                                     |                                   [gpdbs9409](https://github.com/gpdbs9409)                                   |                                   [ruluralaa](https://github.com/ruluralaa)                                    |                                    [hanuuuuU](https://github.com/hanuuuuU)                                    |
 
 ### 개발 기간
+
 2025.07.03 - 2025.07.29
 
 ### 활용 기술 및 도구
@@ -26,75 +22,43 @@
 - **Open API**: 키움증권 API
 - **AI API**: Perplexity
 - **Collaboration**: GitHub, Notion
----
 
 <br/>
 
-## 실행 화면 
+## 시장 현황 및 문제 인식
 
-| 그룹 생성 | 그룹 참여 |
-|:---------:|:---------:|
-| <img src="" width="450"> | <img src="" width="450"> |
-| 추천 생성 | 공구 생성 |
-| <img src="" width="450"> | <img src="" width="450"> |
-| 공구 리스트 | 추천 리스트 |
-| <img src="" width="450"> | <img src="" width="450"> |
+![시장 현황 차트 1](../images/market-overview-01.png)
 
-<br/>
+![시장 현황 차트 2](../images/market-overview-02.png)
 
-## 시연 영상
+![시장 현황 차트 3](../images/market-overview-03.png)
 
+![시장 현황 차트 4](../images/market-overview-04.png)
 
-## 프로젝트 개요
+![시장 현황 차트 5](../images/market-overview-05.png)
 
-### 1️⃣ 기획 의도
-- 
-- 
+## 특장점
 
-<br/>
+### 1. 계좌연동을 통한 거래 데이터 자동화
 
-### 2️⃣ 기능 소개
-1. 👤 **계좌연동**
-   - 
+![계좌연동 기능 화면](../images/feature-01-account-automation.png)
 
-2. 👥 **매매일지**
-   -
-   
-4. 📝 **AI 피드백**
-   - 
+### 2. 통일된 템플릿으로 쓰는 사람, 읽는 사람 모두 편리
 
-5. 🛒 **커뮤니티 & 필터링**
-   - 
-   - 
+![통일된 템플릿 화면](../images/feature-02-unified-template.png)
 
-<br/>
+### 3. 커뮤니티 기능 제공
 
-### 3️⃣ 기대효과
-#### 📱 [기술적 기대효과]
-1. **풀스택 개발 역량 강화**
-   - 프론트엔드와 백엔드를 모두 직접 구현하여, 전체 흐름을 수직적으로 경험
+![커뮤니티 기능 화면](../images/feature-03-community.png)
 
-2. **서비스 구조 이해도 향상**
-  - 사용자 흐름을 고려한 기능 설계 및 구현
-  - 흐름에 맞는 데이터 모델 설계
+## 기대효과
 
+![기대효과 요약](../images/expected-impact.png)
 
-#### 🧩 [사회적 기대효과]
-1. ****
-   - 
-2. ****
-   - 
-3. ****
-   - 
+## 아키텍쳐 구성
 
-<br/>
+![아키텍쳐 다이어그램](../images/architecture.png)
 
+## ERD
 
-### 4️⃣ 프로젝트 구조
-
-#### ERD
-![image]()
-
-#### 아키텍처
-![image]()
-
+![ERD 다이어그램](../images/erd.png)
